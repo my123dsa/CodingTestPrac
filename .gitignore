@@ -28,3 +28,17 @@ bin/
 ### Mac OS ###
 .DS_Store
 .idea
+/src/backjoon/java/bronze/level1/level1.iml
+/src/backjoon/java/silver/level1/level2.iml
+/src/backjoon/java/bronze/level2/level3.iml
+/src/backjoon/java/silver/level2/level4.iml
+/src/backjoon/java/bronze/level3/level5.iml
+/src/programmers/java/level2/level6.iml
+/src/backjoon/java/gold/level4/level7.iml
+/src/backjoon/java/silver/level3/level8.iml
+/src/programmers/java/level1/level9.iml
+/src/backjoon/java/gold/level5/level10.iml
+/src/backjoon/java/silver/level4/level11.iml
+/src/backjoon/java/silver/level5/level12.iml
+/src/programmers/java/level3/level13.iml
+/src/backjoon/java/gold/level3/level14.iml
